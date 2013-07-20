@@ -1,0 +1,15 @@
+{
+  "name": "rdio-auth",
+  "version": "0.0.0",
+  "description": "connect middleware for rdio api oauth authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "rdio-api": "~0.1.0",
+    "open": "0.0.3"
+  }
+}
